@@ -1,3 +1,7 @@
+/*
+npm install --save-dev webpack webpack-cli html-webpack-plugin style-loader css-loader webpack-dev-server eslint-plugin-prettier eslint-config-prettier prettier --save-exact
+*/
+
 const path = require("path");
 const HtmlWebpackPlugin = require("html-webpack-plugin");
 
